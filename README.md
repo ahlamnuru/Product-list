@@ -19,6 +19,7 @@ The app shows a grid of nine desserts, each with a photo, a category, a name and
 - "Start New Order" clears the cart and closes the popup
 - Responsive layout for phones, tablets and desktops
 - Hover and focus states on all buttons
+- live update
 
 ## Technologies
 
@@ -55,7 +56,8 @@ src/
 `App.tsx` holds the cart and all the logic for adding, changing and removing items. The components just display what they receive.
 
 ```
-### links 
+### links
  deployment :https://vercel.com/shiera1/product-list/6VBHStrtKKrNHCKs39N77xWFXqS2
 
  github :https://github.com/ahlamnuru/Product-list
+```
